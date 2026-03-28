@@ -1,0 +1,6 @@
+# LOG
+.download.log
+.venv
+mejoras.md
+__pycache__/
+*.mp3
